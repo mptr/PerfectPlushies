@@ -1,3 +1,6 @@
+## Version 1.11.0
+- New Mr. Rancher plushie
+
 ## Version 1.10.0
 - New mythical Blob plushie
 - New Flamingo common plushie
